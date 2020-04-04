@@ -1,0 +1,2 @@
+# Bannerlord-Spolszczenie
+Spolszczenie Bannerlorda
